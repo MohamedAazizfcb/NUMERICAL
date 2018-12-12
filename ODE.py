@@ -60,7 +60,5 @@ for i in range(1, t.size):
     
 
 plt.plot(t,y,'r-',t,yasol(t),'b-')
-إنهاء الدردشة
-اكتب رسالة، @اسم...
 
 

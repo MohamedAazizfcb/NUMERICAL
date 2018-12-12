@@ -1,3 +1,5 @@
+#INPUT : STill WOrking oN It
+#OUTPUT : plt.plot(t,y,'r-',t,yasol(t),'b-')
 import numpy as np
 import matplotlib.pyplot as plt
 
